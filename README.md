@@ -17,11 +17,13 @@
 
 - What benefits have seen seen from Iot?
 
-- What’s different about IoT compared to more general programming? What are the challenges and constaints?
+- What’s different about IoT compared to more general programming? What are the challenges and constraints?
 
 - Where do you think <this company> / the state of the art will be with IoT in 3 years?
 
 - What are the worst IoT or tech devices you've seen and how would you improve them
+
+- What IoT device would you invent or most like to work on?
 
 ## Engineering / Teamwork
 
