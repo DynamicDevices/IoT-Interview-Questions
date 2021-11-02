@@ -14,7 +14,19 @@ I did a shout-out on Twitter for thoughts on good questions for junior IoT/embed
 
 - Tell me about a project you did that you're most proud of, with as much detail as possible. Could be code related, could be whatever? (I've had people describe everything, from complex engineering projects to reorging a music festival. The ones who are REALLY excited to describe what they did in as much detail as possible. Grab those people. Give them interesting things to do and they'll never disappoint.)
 
-## General Industry Awareness
+- What are you passionate about? 
+
+- What makes you want to get out of bed and work on this stuff? 
+
+- Where is the industry going?  What challenges will it face? How do you see us overcoming them? 
+
+- What got you started in this stuff? What piqued your interest? 
+
+- Tell me about your home
+
+- What do you like to read? Do on your time off? Pets? So - AMA. I asked you a bunch of stuff, it's your turn, nothing off-limits, only fair, right? 
+
+## General IoT Industry Awareness
 
 - What is IoT, to you?
 
@@ -30,10 +42,14 @@ I did a shout-out on Twitter for thoughts on good questions for junior IoT/embed
 
 ## Engineering
 
+- Ask questions about risks, assumptions, balance between security/safety and convenience, etc. (Those attitudes may matter more than implementation skills they haven't developed yet)
+  
 - Open-ended practical problem solving questions, eg: if we wanted to make <thing>, how could we design the setup and installation process for a non-technical user?
 
 - Probe around the answers for things like accessibility, privacy, security, maintenance, lifecycle, etc.
 
+-  Discuss what features you could/should put in a design to facilitate debugging, maintenance, etc...
+  
 ## Teamwork
 
 - A portfolio of their work on github , blogs, contributions.
@@ -44,13 +60,13 @@ I did a shout-out on Twitter for thoughts on good questions for junior IoT/embed
 
 - What factors should you consider in an interrupt handler?
 
-## Cloud Awareness
+- What happens before main()?
 
-- IoT services offered by the main cloud providers and see which ones they know about and the use cases, etc.
+- Your UART's sending junk; what could be wrong? How might a 'scope help?
 
-## Communications Experience
+- Do you know what a debugger is? Can you use one?
 
-- What tool do you recommend for passing messages around?
+- You are remote debugging some code. It doesn't seem to be doing what the source shows and is a bit crazy. What might the problem be?
 
 ## Hardware Experience
 
@@ -63,6 +79,18 @@ I did a shout-out on Twitter for thoughts on good questions for junior IoT/embed
 - How can you verify that it will last 5 years on one battery ?
 
 - How do you use an earth plane to improve EMC ?
+
+- Do you know what an oscilloscope is? Can you use one?
+
+- Your I2C isn't working; what should you check? How might a 'scope help?
+
+## Communications Experience
+
+- What tool do you recommend for passing messages around?
+
+## Cloud Awareness
+
+- IoT services offered by the main cloud providers and see which ones they know about and the use cases, etc.
 
 ## Security Awareness
 
