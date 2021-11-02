@@ -55,4 +55,6 @@
 
 # Security Awareness
 
+- How would you ensure that the device is secure & cannot be used to compromise the users security?
+  
 - Discuss the OWASP IoT top 10 is a good place to start. It should help you gauge their understanding and interest in the topic
