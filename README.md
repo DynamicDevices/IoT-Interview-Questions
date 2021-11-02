@@ -1,3 +1,4 @@
+I did a shout-out on Twitter for thoughts on good questions for junior IoT/embedded engineers and the answers have been hugely helpful and really made me think. So I thought I'd collate them here for  you. Pull Requests with your thoughts gratefully accepted! @embedded_iot
 
 # IoT Interview Questions
 
