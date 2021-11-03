@@ -26,6 +26,8 @@ I did a shout-out on Twitter for thoughts on good questions for junior IoT/embed
 
 - What do you like to read? Do on your time off? Pets? So - AMA. I asked you a bunch of stuff, it's your turn, nothing off-limits, only fair, right? 
 
+- What have you learnt recently and what do you want to learn?
+
 ## General IoT Industry Awareness
 
 - What is IoT, to you?
@@ -49,7 +51,11 @@ I did a shout-out on Twitter for thoughts on good questions for junior IoT/embed
 - Probe around the answers for things like accessibility, privacy, security, maintenance, lifecycle, etc.
 
 -  Discuss what features you could/should put in a design to facilitate debugging, maintenance, etc...
-  
+
+- Tell me about a project that failed, and what your next steps were.
+
+- What are your minimum tools required to troubleshoot. (i.e. if they don’t list a scope they’re likely under-trained about its usefulness)
+
 ## Teamwork
 
 - A portfolio of their work on github , blogs, contributions.
